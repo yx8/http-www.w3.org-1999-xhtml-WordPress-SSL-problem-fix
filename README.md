@@ -1,4 +1,4 @@
-If you just installed your SSL certificate on your WordPress website and fount out on the dashboard page the website url is marked as an insecured one. 
+When you just installed your SSL certificate on your WordPress website and found out on the dashboard page the website url is marked as an insecured one. 
 
 In most cases it's caused by this link "http://www.w3.org/1999/xhtml" on the dashboard page. This link is written as "http" instead of "https" in a lot of plugins which were developed a few years ago when SSL wasn't so popular. So it had to be written in "http".
 
